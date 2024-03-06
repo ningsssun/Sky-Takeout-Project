@@ -12,7 +12,7 @@ Node.js - The frontend framework\
 VUE.js - The frontend framework\
 MySQL - The database used\
 Maven - Dependency management for Java\
-Git - Version management\
+Git - Version management
 
 ### TODO...
 The project is still under construction.
