@@ -3,7 +3,7 @@
 SkyTakeout is a fast and reliable platform for food ordering and delivery developed for catering companies.
 Based on SpringBoot, the backend system is used for managing orders and deliveries.
 
-## Deployment
+### Deployment
 To deploy this application, you can use any web server that supports proxying to a Spring Boot application and Nginx.
 
 ### Built With
