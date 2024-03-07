@@ -24,6 +24,7 @@ Function completed:
 - Edit employee info
 - Employee info query
 - Enable or disable employee accounts
+- Category management module function
 
 Function to be done:
 - Dishes function
