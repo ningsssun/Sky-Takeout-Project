@@ -17,18 +17,14 @@ Git - Version management
 ### TODO...
 The project is still under construction.
 
-Function completed:
-- Employee log-in
-- Employee log-out
-- Add new employee
-- Edit employee info
-- Employee info query
-- Enable or disable employee accounts
+Functions completed:
+- Employee management module function
+- Category management module function
 
-Function to be done:
-- Dishes function
-- Shopping cart function
-- Store function
-- Combo function
-- Payment function
+Functions to be done:
+- Dishes management module function
+- Shopping cart module function
+- Store management module function
+- Combo management module function
+- Payment module function
 
