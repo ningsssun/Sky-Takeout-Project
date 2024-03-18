@@ -20,6 +20,7 @@ The project is still under construction.
 Functions completed:
 - Employee management module function
 - Category management module function
+- Public field autofill function
 
 Functions to be done:
 - Dishes management module function
