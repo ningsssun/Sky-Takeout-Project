@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: hcszsn414414S.
+  alioss:
+    endpoint: oss-me-east-1.aliyuncs.com
+    access-key-id: LTAI5tQxTReMNDU8kUHHtKnY
+    access-key-secret: V8gtgvLRrBWG5qTYJGL3Glf9Oqf2Dz
+    bucket-name: skyproject-ning
